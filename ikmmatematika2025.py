@@ -62,4 +62,4 @@ if st.button("Show"):
 
 # Add informational message
 st.write("---")
-st.info("Jika Anda sudah mengisi survey namun belum terekap, kemungkinan anda salah menginputkan NIM saat pengisian, mohon ulangi pengisian survey.")
+st.info("Jika Anda sudah mengisi survei namun belum terekap, kemungkinan Anda salah menginputkan NIM pada formulir survei.")
